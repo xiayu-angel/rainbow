@@ -69,14 +69,14 @@
 
 效果图如下:
 
-![https://github.com/xiayu-angel/rainbow/blob/master/images/box.jpg]
+![https://github.com/xiayu-angel/rainbow/blob/master/images/border-box.jpg]
 它的内容区 就是蓝色部分的`宽高`158px * 158px+ 绿色的`padding`区20px + 再加上金色的` border`区上下左右2px的值  加起来总共是200px*200px 所以`border-box`的内容区是(wh+padding+border)。  
 
 再看第二个盒子的`box-sizing`的值是`content-box`
 
 效果图如下:
 
-![https://github.com/xiayu-angel/rainbow/blob/master/images/1.jpg]
+![https://github.com/xiayu-angel/rainbow/blob/master/images/box.jpg]
 
 它的内容区就是200*200 没有包括边框和内边距 所以`content-box`的内容区就是宽高
 
