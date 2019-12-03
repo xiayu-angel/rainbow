@@ -29,9 +29,9 @@
 
 效果图
 
-![https://github.com/xiayu-angel/rainbow/blob/master/images/1.jpg]
+![1][https://github.com/xiayu-angel/rainbow/blob/master/images/1.jpg]
 
-![https://github.com/xiayu-angel/rainbow/blob/master/images/box.jpg]
+![box][https://github.com/xiayu-angel/rainbow/blob/master/images/box.jpg]
 
 根据上面的图来看，两个盒子在没有设置box-sizing前是一样的。设置了box-sizing之后将会有很大的不同。
 接下来就一探究竟。
