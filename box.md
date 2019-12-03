@@ -56,7 +56,9 @@
         }
 
 ```
-两个盒子将box-sizing设置了不同的值 效果如下
+两个盒子将box-sizing设置了不同的值
+
+效果如下
 
 ![https://github.com/xiayu-angel/rainbow/blob/master/images/11.jpg]
 
@@ -68,7 +70,7 @@
 效果图如下:
 
 ![https://github.com/xiayu-angel/rainbow/blob/master/images/box.jpg]
-它的内容区 就是蓝色部分的宽高158*158px+ 绿色的padding区上下左右20px + 再加上金色的border区上下左右2px的值  加起来总共是200px*200px 所以border-box内容区包括(宽高+padding+border)。  
+它的内容区 就是蓝色部分的`宽高`158px * 158px+ 绿色的`css padding`区20px + 再加上金色的`css border`区上下左右2px的值  加起来总共是200px*200px 所以border-box的内容区是(wh+padding+border)。  
 
 再看第二个盒子的box-sizing的值是content-box
 
